@@ -1,0 +1,38 @@
+Dump of graph (numVert = 5, numEdge = 7)
+Row 0: 
+  1: 15
+  3: 13
+  4: 14
+Row 1: 
+  2: 16
+  4: 12
+Row 2: 
+  4: 17
+Row 3: 
+  4: 11
+Row 4: 
+
+The neighbors of vertex 0 are:
+(1, 15) (3, 13) (4, 14) 
+
+The neighbors of vertex 1 are:
+(2, 16) (4, 12) 
+
+The neighbors of vertex 2 are:
+(4, 17) 
+
+The neighbors of vertex 3 are:
+(4, 11) 
+
+The neighbors of vertex 4 are:
+
+
+numVert = 5, numEdge = 7
+The edges in the graph are:
+(0, 1, 15) (0, 3, 13) (0, 4, 14) (1, 2, 16) (1, 4, 12) (2, 4, 17) (3, 4, 11) 
+
+Remove edges (3,4), (0,4), and (1,2)...
+
+numVert = 5, numEdge = 4
+The edges in the graph are:
+(0, 1, 15) (0, 3, 13) (1, 4, 12) (2, 4, 17) 
