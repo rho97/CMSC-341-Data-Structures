@@ -1,0 +1,28 @@
+
+Push integers on stack and dump contents:
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+Read contents using top() and pop():
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+Attempt pop() of empty stack:
+Caught exception:
+Stack<T>::pop(): attempt to pop from an empty stack.
